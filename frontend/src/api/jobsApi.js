@@ -1,7 +1,8 @@
 // src/api/jobsApi.js
 import axios from "axios";
 
-const API_URL = "http://localhost:5000/api/jobs";
+const API_URL = "https://jobtracker-0ued.onrender.com/api/jobs";
+// const API_URL = "http://localhost:5000/api/jobs"; // locally running url
 
 // Creating axios instance
 const api = axios.create({
