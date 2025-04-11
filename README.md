@@ -11,7 +11,7 @@ A full-stack web application to help students track their job applications effic
 ## 🚀 Live Links
 
 - **Frontend (Vercel):** [Live App](https://job-tracker-git-main-shanakasps-projects.vercel.app/)
-- **Backend (Render/Railway):** [Live API](https://your-backend-url.onrender.com](https://jobtracker-0ued.onrender.com)
+- **Backend (Render):** [Live API](https://jobtracker-0ued.onrender.com)
 - **Video Walkthrough:** [Watch on Google Drive/YouTube](https://drive.google.com/drive/folders/1pjf1A9IAtwpjWs9W_I3ltarmH5NnRTZY?usp=sharing)
 
 ---
